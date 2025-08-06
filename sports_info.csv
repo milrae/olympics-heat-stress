@@ -1,0 +1,28 @@
+sport,riskclass,events
+athletics,1,31
+archery,2,5
+golf,2,2
+sailing^,2,10
+shooting,2,15
+short-length races,2,6
+basketball 3×3*,3,2
+beach volleyball,3,2
+BMX freestyle,3,2
+BMX racing*,3,2
+breaking**,3,2
+canoe slalom^,3,6
+canoe sprint^,3,10
+football,3,2
+medium-length races,3,7
+road cycling,3,4
+rowing^,3,14
+skateboarding** ,3,4
+sport climbing*,3,4
+tennis,3,5
+triathlon,3,3
+equestrian,4,6
+long races,4,4
+pentathlon,4,2
+rugby,4,2
+hockey,5,2
+mountain biking,5,2
