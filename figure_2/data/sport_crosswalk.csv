@@ -1,0 +1,138 @@
+games,discipline_raw,sport_canonical,tier,note
+Paris 2024,3x3 Basketball,3x3 Basketball,strict,
+Paris 2024,Archery,Archery,strict,
+Paris 2024,Artistic Gymnastics,,exclude,Indoor
+Paris 2024,Artistic Swimming,,exclude,Indoor
+Paris 2024,Athletics,Athletics,athletics,"Single label covering track, field, marathon and race walk; tier resolved per session from event_raw"
+Paris 2024,BMX Freestyle,BMX Freestyle,broad,
+Paris 2024,BMX Racing,BMX Racing,broad,
+Paris 2024,Badminton,,exclude,Indoor
+Paris 2024,Basketball,,exclude,Indoor
+Paris 2024,Beach Volleyball,Beach Volleyball,strict,
+Paris 2024,Boxing,,exclude,Indoor
+Paris 2024,Breaking,Breaking,broad,Outdoor at Place de la Concorde; not on the LA28 programme
+Paris 2024,Canoe Slalom,Canoe Slalom,strict,
+Paris 2024,Canoe Sprint,Canoe Sprint,strict,
+Paris 2024,Cycling Road,Cycling Road,strict,
+Paris 2024,Cycling Track,,exclude,Indoor velodrome
+Paris 2024,Diving,,exclude,Indoor
+Paris 2024,Equestrian,Equestrian,strict,
+Paris 2024,Fencing,,exclude,Indoor
+Paris 2024,Football,Football,strict,Six host cities; venue city is not distinguished by design
+Paris 2024,Golf,Golf,strict,
+Paris 2024,Handball,,exclude,Indoor
+Paris 2024,Hockey,Hockey,strict,
+Paris 2024,Judo,,exclude,Indoor
+Paris 2024,Marathon Swimming,Open Water Swimming,broad,
+Paris 2024,Modern Pentathlon,Modern Pentathlon,strict,
+Paris 2024,Mountain Bike,Mountain Bike,strict,
+Paris 2024,Rhythmic Gymnastics,,exclude,Indoor
+Paris 2024,Rowing,Rowing,strict,
+Paris 2024,Rugby Sevens,Rugby Sevens,strict,
+Paris 2024,Sailing,Sailing,strict,Marina Marseille
+Paris 2024,Shooting,Shooting - Outdoor,shooting,Single code SHO spans indoor rifle/pistol and outdoor shotgun at one venue; resolved per session from event_raw (trap/skeet = outdoor)
+Paris 2024,Skateboarding,Skateboarding,broad,
+Paris 2024,Sport Climbing,Climbing,climbing,Speed and Boulder/Lead share one label; resolved per session from event_raw (boulder or lead = long-duration). Confirmed against the IFSC Paris 2024 schedule (sessions CLB01-CLB06)
+Paris 2024,Surfing,Surfing,broad,"Teahupo'o, Tahiti; times are Tahiti local"
+Paris 2024,Swimming,,exclude,Indoor
+Paris 2024,Table Tennis,,exclude,Indoor
+Paris 2024,Taekwondo,,exclude,Indoor
+Paris 2024,Tennis,Tennis,strict,
+Paris 2024,Trampoline Gymnastics,,exclude,Indoor
+Paris 2024,Triathlon,Triathlon,strict,
+Paris 2024,Volleyball,,exclude,Indoor
+Paris 2024,Water Polo,,exclude,Indoor
+Paris 2024,Weightlifting,,exclude,Indoor
+Paris 2024,Wrestling,,exclude,Indoor
+Tokyo 2020,3x3 Basketball,3x3 Basketball,strict,
+Tokyo 2020,Archery,Archery,strict,
+Tokyo 2020,Artistic Gymnastics,,exclude,Indoor
+Tokyo 2020,Artistic Swimming,,exclude,Indoor
+Tokyo 2020,Athletics,Athletics,athletics,Single label in the 2021-dates source; tier resolved per session from event_raw
+Tokyo 2020,Badminton,,exclude,Indoor
+Tokyo 2020,Baseball/Softball,Baseball/Softball,strict,Single label in the 2021-dates source; both disciplines are long-duration outdoor so no split is needed
+Tokyo 2020,Basketball,,exclude,Indoor
+Tokyo 2020,Beach Volleyball,Beach Volleyball,strict,
+Tokyo 2020,Boxing,,exclude,Indoor
+Tokyo 2020,Canoe Slalom,Canoe Slalom,strict,
+Tokyo 2020,Canoe Sprint,Canoe Sprint,strict,
+Tokyo 2020,Cycling BMX Freestyle,BMX Freestyle,broad,
+Tokyo 2020,Cycling BMX Racing,BMX Racing,broad,
+Tokyo 2020,Cycling Mountain Bike,Mountain Bike,strict,
+Tokyo 2020,Cycling Road,Cycling Road,strict,
+Tokyo 2020,Cycling Track,,exclude,Indoor velodrome
+Tokyo 2020,Diving,,exclude,Indoor
+Tokyo 2020,Equestrian,Equestrian,strict,
+Tokyo 2020,Fencing,,exclude,Indoor
+Tokyo 2020,Football,Football,strict,
+Tokyo 2020,Golf,Golf,strict,
+Tokyo 2020,Handball,,exclude,Indoor
+Tokyo 2020,Hockey,Hockey,strict,
+Tokyo 2020,Judo,,exclude,Indoor
+Tokyo 2020,Karate,,exclude,Indoor; not on the LA28 programme
+Tokyo 2020,Marathon Swimming,Open Water Swimming,broad,
+Tokyo 2020,Modern Pentathlon,Modern Pentathlon,strict,
+Tokyo 2020,Opening and Closing Ceremonies,,exclude,Not competition sessions
+Tokyo 2020,Rhythmic Gymnastics,,exclude,Indoor
+Tokyo 2020,Rowing,Rowing,strict,
+Tokyo 2020,Rugby,Rugby Sevens,strict,
+Tokyo 2020,Sailing,Sailing,strict,
+Tokyo 2020,Shooting,Shooting - Outdoor,shooting,Single label in the 2021-dates source spanning indoor rifle/pistol and outdoor shotgun; resolved per session from event_raw
+Tokyo 2020,Skateboarding,Skateboarding,broad,
+Tokyo 2020,Sport Climbing,Climbing,climbing,"Combined format: speed, boulder and lead all ran within each session"
+Tokyo 2020,Surfing,Surfing,broad,
+Tokyo 2020,Swimming,,exclude,Indoor
+Tokyo 2020,Table Tennis,,exclude,Indoor
+Tokyo 2020,Taekwondo,,exclude,Indoor
+Tokyo 2020,Tennis,Tennis,strict,
+Tokyo 2020,Trampoline Gymnastics,,exclude,Indoor
+Tokyo 2020,Triathlon,Triathlon,strict,
+Tokyo 2020,Volleyball,,exclude,Indoor
+Tokyo 2020,Water Polo,,exclude,Indoor
+Tokyo 2020,Weightlifting,,exclude,Indoor
+Tokyo 2020,Wrestling,,exclude,Indoor
+Rio 2016,Archery,Archery,strict,
+Rio 2016,Athletics,Athletics,athletics,Mixed label; tier resolved per session from event_raw
+Rio 2016,Athletics - marathon,Athletics,strict,
+Rio 2016,Badminton,,exclude,Indoor
+Rio 2016,Basketball,,exclude,Indoor
+Rio 2016,Beach volleyball,Beach Volleyball,strict,
+Rio 2016,Boxing,,exclude,Indoor
+Rio 2016,Canoe slalom,Canoe Slalom,strict,
+Rio 2016,Canoe sprint,Canoe Sprint,strict,
+Rio 2016,Cycling - BMX,BMX Racing,broad,Rio predates the BMX freestyle event
+Rio 2016,Cycling - mountain bike,Mountain Bike,strict,
+Rio 2016,Cycling - road,Cycling Road,strict,
+Rio 2016,Cycling - road time trial,Cycling Road,strict,
+Rio 2016,Cycling - track,,exclude,Indoor velodrome
+Rio 2016,Diving,,exclude,Indoor
+Rio 2016,Equestrian - dressage,Equestrian,strict,
+Rio 2016,Equestrian - eventing,Equestrian,strict,
+Rio 2016,Equestrian - jumping,Equestrian,strict,
+Rio 2016,Fencing,,exclude,Indoor
+Rio 2016,Football,Football,strict,
+Rio 2016,Golf,Golf,strict,
+Rio 2016,Gymnastics - artistic,,exclude,Indoor
+Rio 2016,Gymnastics - rhythmic,,exclude,Indoor
+Rio 2016,Gymnastics - trampoline,,exclude,Indoor
+Rio 2016,Handball,,exclude,Indoor
+Rio 2016,Hockey,Hockey,strict,
+Rio 2016,Judo,,exclude,Indoor
+Rio 2016,Marathon swimming,Open Water Swimming,broad,
+Rio 2016,Modern pentathlon,Modern Pentathlon,strict,
+Rio 2016,Race walk,Athletics,strict,
+Rio 2016,Rowing,Rowing,strict,
+Rio 2016,Rugby,Rugby Sevens,strict,
+Rio 2016,Sailing,Sailing,strict,
+Rio 2016,Shooting - Rifle & Pistol,,exclude,Indoor
+Rio 2016,Shooting - Shotgun,Shooting - Outdoor,strict,Trap/skeet; cleanly split from indoor shooting in this source
+Rio 2016,Swimming,,exclude,Indoor
+Rio 2016,Synchronised swimming,,exclude,Indoor
+Rio 2016,Table tennis,,exclude,Indoor
+Rio 2016,Taekwondo,,exclude,Indoor
+Rio 2016,Tennis,Tennis,strict,
+Rio 2016,Triathlon,Triathlon,strict,
+Rio 2016,Volleyball,,exclude,Indoor
+Rio 2016,Water polo,,exclude,Indoor
+Rio 2016,Weightlifting,,exclude,Indoor
+Rio 2016,Wrestling,,exclude,Indoor

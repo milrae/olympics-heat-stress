@@ -1,0 +1,8 @@
+order,scenario,adjusted_parameter,axis_label,historical,projected,change_cities,change_pct,axis_group
+1,Baseline,,Baseline,168,131,37,22.0,main
+2,Lower risk tolerance,15% threshold,Lower risk|tolerance,154,111,43,27.9,main
+3,Higher risk tolerance,35% threshold,Higher risk|tolerance,172,150,22,12.8,main
+4,Lower future warming,2030 projections,Lower future|warming,168,151,17,10.1,main
+5,Extended season,June-October,Extended|season,167,156,11,6.6,main
+6,Coolest part of day,Tmin/RHn,Coolest part|of day,180,180,0,0.0,main
+7,Population threshold,600 k,Population|threshold,808,636,172,21.3,population
