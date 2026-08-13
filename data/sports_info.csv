@@ -1,0 +1,27 @@
+,sport,sma_profile,events,notes
+0,archery,archery,6,
+1,baseball,baseball,1,
+2,basketball 3×3,basketball,2,
+3,beach volleyball,volleyball,2,
+4,canoeing*,canoeing,6,
+5,cricket,cricket,2,
+6,cycling (road),cycling,4,
+7,endurance races,marathon,4,marathon and race walking
+8,equestrian,equestrian,6,
+9,flag football,touch,2,
+10,football,soccer,2,
+11,golf,golf,3,
+12,hockey,field_hockey,2,
+13,kayaking*,kayaking,10,
+14,lacrosse,field_hockey,2,
+15,medium-length races,running,4,track 5 km and 10 km
+16,mountain biking,mtb,2,
+17,pentathlon,running,2,
+18,rowing*,rowing,12,
+19,rugby,rugby_union,2,
+20,sailing*,sailing,10,
+21,shooting,shooting,5,excludes short shooting events
+22,softball,softball,1,
+23,sport climbing,climbing,4,excludes speed climbing events
+24,tennis,tennis,5,
+25,triathlon,running,3,

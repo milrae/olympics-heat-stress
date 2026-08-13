@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+pythermalcomfort = "*"
+pyarrow = "*"
+fastparquet = "*"
+pvlib = "*"
+ruff = "*"
+seaborn = "*"
+icecream = "*"
+cachetools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
